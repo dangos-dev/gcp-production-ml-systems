@@ -1,9 +1,18 @@
 # Production Machine Learning Systems
 
-Este repositorio contiene dos de los proyectos/laboratorios que realicé para el curso Production Machine Learning Systems.
+Este repositorio contiene los proyectos/laboratorios que realicé para el curso Production Machine Learning Systems.
 
-## Contenido
-- Distributed Training with Keras.ipynb: entrenamiento distribuido con Keras/TensorFlow.
-- TensorFlow Data Validation (Advanced).ipynb: validación y análisis de datos con TFDV.
+## Laboratorios realizados
+A continuación, la lista de laboratorios que completé. Algunos ya están subidos al repositorio y otros están pendientes de subir.
 
-> Nota: Los demás proyectos/laboratorios los subiré después.
+| Laboratorio | Calificación | Status |
+| --- | --- | --- |
+| Structured data prediction using Vertex AI Platform | 100% | pendiente de subir |
+| Introduction to TensorFlow Data Validation | 100% | pendiente de subir |
+| TensorFlow Data Validation (Advanced) | 100% | subido |
+| Vertex AI: Training and Serving a Custom Model | 100% | pendiente de subir |
+| Distributed Training with Keras | 100% | subido |
+| TPU Speed Data Pipelines | 100% | pendiente de subir |
+| Running Pipelines on Vertex AI 2.5 | 100% | pendiente de subir |
+
+> Nota: Los laboratorios marcados como "pendiente de subir" se agregarán al repositorio próximamente.
